@@ -10,11 +10,13 @@ LUDI
 	- Chip communication is through the cartridge slot, so can be programmed there
 - Turning on
 	- Power indicator light
+	- Power indicator light for cartridge
+		- Different color
 	- Shows LUDI and some icon (a tent or something)
 	- Plays startup sound
 	- Shows extra animation if a game is inside + normal sound
 	- If no game, allows you to edit settings
-		- Change brightness, etc.
+		- Change brightness, calibrate volume, etc.
 - Custom PCB
 	- Batch PCB fabrication
 	- Fabricate console & 2+ cartridges
@@ -24,6 +26,9 @@ LUDI
 	- External indicator light
 	- External reset button
 	- Logo/Name, also etch model number, etc.
+- Video/Audio
+	- Arduino TV-Out Library
+		- has built-in sound output (make it mono)
 - Steps
 	1. Research
 	2. Breadboard
