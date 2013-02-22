@@ -94,6 +94,14 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
+[GeneratedDocument1]
+DocumentPath=ludi_v1.csv
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=ludi_v1.rep
+DItemRevisionGUID=
+
 [PCBConfiguration1]
 ReleaseItemId=
 CurrentRevision=
