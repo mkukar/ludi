@@ -1,0 +1,12 @@
+Ludi Console Pins
+D5: P1 CLK
+D6: P1 LATCH
+D8: P1 DOUT
+
+D7: Audio OUT
+D9: Video Sync OUT
+D5: Video OUT
+
+D13: P2 CLK
+D12: P2 LATCH
+D10: P2 DOUT
